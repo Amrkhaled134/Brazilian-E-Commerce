@@ -84,7 +84,7 @@ The dataset was prepared using Python by:
 * Top Product Categories by Revenue
 * State Filter
 
-![Orders & Sales](images/)
+![Orders & Sales](images/one_olist.png)
 
 ---
 
@@ -102,8 +102,7 @@ The dataset was prepared using Python by:
 * Top Customer States
 * State Filter
 
-> *(Insert Customers & Delivery dashboard screenshot here)*
-
+![Customers & Delivery](images/two_olist.png)
 ---
 
 ## 💳 3. Payment & Reviews
