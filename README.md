@@ -198,6 +198,6 @@ The marketplace includes around **3K sellers** offering more than **33K products
 * Improve product visibility using category-based recommendations.
 
 
-# 🚀 Conclusion
+# Conclusion
 
 This project demonstrates an end-to-end Business Intelligence workflow, starting from raw data preprocessing in Python and ending with a professional interactive Power BI dashboard that helps stakeholders monitor sales performance, customer behavior, delivery efficiency, payment patterns, and product performance.
