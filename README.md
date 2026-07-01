@@ -119,7 +119,7 @@ The dataset was prepared using Python by:
 * Payment Installments
 * Payment Method Breakdown
 
-> *(Insert Payment & Reviews dashboard screenshot here)*
+![Payment & Reviews ](images/three_olist.png)
 
 ---
 
@@ -136,7 +136,7 @@ The dataset was prepared using Python by:
 * Top Selling Product Categories
 * Top Seller States
 
-> *(Insert Sellers & Products dashboard screenshot here)*
+![ Sellers & Products](images/four_olist.png)
 
 ---
 
