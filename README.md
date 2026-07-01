@@ -140,95 +140,62 @@ The dataset was prepared using Python by:
 
 ---
 
-#  Key Insights
+#  Key Insights & Business Recommendations
 
-### 📦 Sales
+## 🚚 Delivery Performance
 
-* Generated over **$16M** in total revenue.
-* A small number of product categories contribute the majority of revenue.
-* Revenue increased steadily throughout most of the observed period.
-
-### 👥 Customers
-
-* Approximately **96K unique customers** placed orders.
-* Customer activity is concentrated in a few Brazilian states.
-
-### 🚚 Delivery
-
-* About **6.7%** of orders were delivered later than the estimated delivery date.
-* Longer delivery delays are associated with lower customer satisfaction.
-
-### ⭐ Reviews
-
-* Most customers gave **5-star reviews**, indicating generally positive experiences.
-* Review scores decline noticeably for delayed deliveries.
-
-### 💳 Payments
-
-* Credit cards are the dominant payment method.
-* Most customers prefer paying in a single installment, while installment usage decreases as the number of installments increases.
-
-### 🏪 Sellers & Products
-
-* The marketplace includes approximately **3K sellers** and **33K products**.
-* Product sales are highly concentrated in a limited number of categories.
-
----
-# 💡 Business Insights & Recommendations
-
-
-## Insight 1 — Delivery Delays Reduce Customer Satisfaction
-
-Analysis shows a strong relationship between delivery delays and customer satisfaction.
-
-* **Average review score for on-time deliveries:** **4.18 / 5**
-* **Average review score for delayed deliveries:** **2.25 / 5**
-* Approximately **6.7%** of all orders were delivered later than the estimated delivery date.
-
-**Business Impact**
-
-* Late deliveries significantly reduce customer satisfaction.
-* Lower ratings can negatively affect seller reputation and customer retention.
+Approximately **6.7%** of all orders were delivered later than the estimated delivery date. Delivery delays have a significant impact on customer satisfaction, with the average review score dropping from **4.18/5** for on-time deliveries to **2.25/5** for delayed orders.
 
 **Recommendation**
 
 * Optimize shipping routes and logistics operations.
 * Monitor sellers with frequent late deliveries.
-* Provide proactive delivery notifications to customers when delays are expected.
-* Review estimated delivery dates to ensure they are realistic.
+* Provide proactive delivery notifications.
+* Improve delivery time estimation accuracy.
 
 ---
 
-## Insight 2 — Revenue is Concentrated in Few Categories
+## 📦 Sales Performance
 
-A limited number of product categories generate the majority of total revenue.
+The marketplace generated over **$16M** in revenue, with a relatively small number of product categories contributing the majority of sales.
 
 **Recommendation**
 
-* Prioritize inventory and marketing investment in top-performing categories.
-* Launch promotional campaigns for underperforming categories to increase sales diversification.
+* Prioritize inventory and marketing efforts for top-performing categories.
+* Promote underperforming categories to diversify revenue sources.
 
 ---
 
-## Insight 3 — Credit Card is the Preferred Payment Method
+## 👥 Customer Insights
 
-Most customers complete purchases using credit cards, while other payment methods represent a much smaller share.
+The platform serves approximately **96K unique customers**, with demand highly concentrated in a few Brazilian states.
 
 **Recommendation**
 
-* Continue optimizing the credit card checkout experience.
-* Offer installment promotions to encourage higher-value purchases.
+* Focus marketing campaigns on high-performing regions.
+* Expand logistics and promotional activities in underrepresented states.
 
 ---
 
-## Insight 4 — Customer Base is Highly Concentrated by State
+## 💳 Payment Behavior
 
-A significant percentage of customers come from a few Brazilian states.
+Credit cards are the preferred payment method, and most customers choose to pay in a single installment.
 
 **Recommendation**
 
-* Focus regional marketing campaigns on high-performing states.
-* Expand logistics and advertising efforts in lower-performing regions to increase market penetration.
+* Continue optimizing the credit card payment experience.
+* Introduce installment promotions for higher-value purchases.
+
+---
+
+## 🏪 Sellers & Products
+
+The marketplace includes around **3K sellers** offering more than **33K products**. Sales are concentrated within a limited number of product categories.
+
+**Recommendation**
+
+* Support sellers in low-performing categories through targeted campaigns.
+* Improve product visibility using category-based recommendations.
 
 
 # 🚀 Conclusion
